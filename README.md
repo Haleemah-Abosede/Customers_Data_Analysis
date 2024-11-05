@@ -142,3 +142,5 @@ group by canceled
   - The analysis revealed that basic was the most popular subscription type based on the revenue generated and number of customers who subscribed to the package. The average subscription duration is 12 months and eastern region generated most revenue, has the highest number of subscribers and is the only region without any cancellations.
 
 #### Check excel and SQL file attached for further insights like filters. Power BI cannot be attached as a link as the application doesn't accept personal mail but require a work email which I do not possess.
+
+## Link to Sales Data Repository. [Click Here](https://github.com/Haleemah-Abosede/Sales_Data_Analysis/tree/main)

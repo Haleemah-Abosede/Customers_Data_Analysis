@@ -12,7 +12,7 @@
 
   
 ### Overview
-This project analyses customers data on subscription to a service to uncover subscription trends and factors impacting performance. By leveraging Excel, SQL, and Power BI, this analysis provides actionable insights for the organization. 
+This project analyses customers data on subscription to a service to uncover segments, subscription trends and factors impacting performance. The project goal is to understand customer behavior, track subscription types, and identify key trends in cancellations and renewals. By leveraging Excel, SQL, and Power BI, this analysis provides actionable insights for the organization. 
 
 ### Data Sources
 - Source: Incubator Hub Data Analysis Project Customers data [Here](https://canvas.instructure.com/files/273182802/download?download_frd=1)
